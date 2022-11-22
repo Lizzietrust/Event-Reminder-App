@@ -1,0 +1,58 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: rgb(4, 4, 65);
+}
+
+.app {
+    background-color: white;
+    width: 400px;
+    margin: 40px auto;
+    padding: 10px 40px 30px 40px;
+    border-radius: 10px;
+}
+
+h1 {
+    font-weight: 400;
+    padding-bottom: 10px;
+}
+
+.main {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.main img {
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    margin-right: 20px;
+}
+
+.info p {
+    font-weight: 500;
+}
+
+button {
+    width: 100%;
+    padding: 10px;
+    background-color: rgb(4, 4, 65);
+    border: none;
+    color: white;
+    font-size: 18px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+@media(max-width: 765px) {
+    .app {
+        width: 90%;
+        margin: 40px 20px;
+    }
+}
+
