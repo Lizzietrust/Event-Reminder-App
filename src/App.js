@@ -16,10 +16,14 @@ function App() {
     setEvents([])
   };
 
+  const deleteItem = (id) => {
+    setEvents(events.filter((event) => event.id !== id))
+  };
+
   return (
     <div className="app">
       <Header events={events}/>
-      <Main events={events}/>
+      <Main events={events} onDelete={deleteItem}/>
       <Button onClick={onClear}/>
     </div>
   );

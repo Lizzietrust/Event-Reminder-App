@@ -34,8 +34,18 @@ h1 {
     margin-right: 20px;
 }
 
+.info {
+    width: 250px;
+}
+
 .info p {
     font-weight: 500;
+}
+
+.trash {
+    margin-left: 60px;
+    color: rgb(250, 81, 81);
+    cursor: pointer;
 }
 
 button {
