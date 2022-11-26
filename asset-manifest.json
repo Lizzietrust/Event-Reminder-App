@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/event-reminder-app/static/css/main.51a2ca75.css",
-    "main.js": "/event-reminder-app/static/js/main.48c64167.js",
+    "main.css": "/event-reminder-app/static/css/main.3e1f140e.css",
+    "main.js": "/event-reminder-app/static/js/main.9cde8dd4.js",
     "static/js/787.bbafaab6.chunk.js": "/event-reminder-app/static/js/787.bbafaab6.chunk.js",
     "static/media/image-jeremy.png": "/event-reminder-app/static/media/image-jeremy.71cd41f11bee24c1ded3.png",
     "index.html": "/event-reminder-app/index.html",
-    "main.51a2ca75.css.map": "/event-reminder-app/static/css/main.51a2ca75.css.map",
-    "main.48c64167.js.map": "/event-reminder-app/static/js/main.48c64167.js.map",
+    "main.3e1f140e.css.map": "/event-reminder-app/static/css/main.3e1f140e.css.map",
+    "main.9cde8dd4.js.map": "/event-reminder-app/static/js/main.9cde8dd4.js.map",
     "787.bbafaab6.chunk.js.map": "/event-reminder-app/static/js/787.bbafaab6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.51a2ca75.css",
-    "static/js/main.48c64167.js"
+    "static/css/main.3e1f140e.css",
+    "static/js/main.9cde8dd4.js"
   ]
 }
